@@ -9,7 +9,7 @@ export const generateCategory = async (productName, description) => {
 
  const aiResponse = await callGemini(prompt);
 
- console.log("AI Response:", aiResponse);
+//  console.log("AI Response:", aiResponse);
 
  // Extract JSON from response
  const jsonMatch = aiResponse.match(/\{[\s\S]*\}/);
