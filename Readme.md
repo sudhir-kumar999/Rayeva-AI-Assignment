@@ -10,6 +10,10 @@ The project implements two modules from the assignment:
 1. **AI Auto-Category & Tag Generator**
 2. **AI B2B Proposal Generator**
 
+
+Video Link : - https://drive.google.com/file/d/16AEg1vnyE6pCodYd96_z8sF0W5MeQ3vp/view?usp=sharing
+Deployed Link :- https://rayeva-ai-front.onrender.com
+
 The application uses **React for frontend**, **Node.js + Express for backend**, **MongoDB for database**, and **Google Gemini API for AI processing**.
 
 ---
